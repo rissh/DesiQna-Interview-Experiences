@@ -1,13 +1,16 @@
-# DesiQna-Interview-Experiences
-DesiQna Interview Experiences Page
+# DesiQna Interview Experiences Page
+
 This is the Frontend Web page. Its purpose is to make user experience better and have all the Interview Experiences of different companies in a proper manner.
 
-Tech Stack:
+## Tech Stack:
 
-HTML
+- HTML
+- CSS
+- BOOTSTRAP
+- JAVASCRIPT
+- MySql
 
-CSS
+## Author
 
-BOOTSTRAP
-
-JAVASCRIPT
+- [LinkedIn](https://www.linkedin.com/in/rishikesh-jagadale-331812207/)
+- [Github](https://github.com/rissh)
